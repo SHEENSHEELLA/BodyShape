@@ -11,3 +11,15 @@ body {
   font-family: var(--font-base);
   font-weight: 300;
 }
+
+a {
+  color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+
+  margin: 0 auto;
+  padding: 0 15px;
+}
