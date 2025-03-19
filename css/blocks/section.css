@@ -19,7 +19,6 @@
   font-family: var(--font-accent);
   font-weight: 700;
   color: var(--accent);
-  /* font-size: 96px; */
   font-size: clamp(3rem, 1.909rem + 5.45vw, 6rem);
   letter-spacing: 0.08em;
 }
